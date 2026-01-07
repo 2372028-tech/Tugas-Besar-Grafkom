@@ -1,12 +1,21 @@
 @font-face {
+<<<<<<< HEAD
   font-family: 'SF Distant Galaxy';
   src: local('SF Distant Galaxy'), url(fonts/SF\ Distant\ Galaxy.ttf), format('ttf');
+=======
+  font-family: "SF Distant Galaxy";
+  src: local("SF Distant Galaxy"), url(fonts/SF\ Distant\ Galaxy.ttf), format("ttf");
+>>>>>>> 626caef064bae4714cee54896c2899152b02526d
 }
 
 body {
   background-color: black;
   margin: 0;
+<<<<<<< HEAD
   font-family: 'SF Distant Galaxy';
+=======
+  font-family: "SF Distant Galaxy";
+>>>>>>> 626caef064bae4714cee54896c2899152b02526d
 }
 
 #heading {
@@ -39,6 +48,12 @@ h1 {
 }
 
 #progress {
+<<<<<<< HEAD
   font-size: 3em;
   color: white;
 }
+=======
+  font-size: 15em;
+  color: black;
+}
+>>>>>>> 626caef064bae4714cee54896c2899152b02526d

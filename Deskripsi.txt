@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Proyek ini bertujuan untuk menciptakan lingkungan virtual interaktif berbasis web yang mensimulasikan ruang Laboratorium Komputer. 
+=======
+Proyek ini bertujuan untuk menciptakan lingkungan virtual interaktif berbasis web yang mensimulasikan ruang Laboratorium Komputer. 
+>>>>>>> 626caef064bae4714cee54896c2899152b02526d
 Pengguna dapat menavigasi ruangan secara 360 derajat dan berinteraksi dengan objek tertentu di dalam ruangan menggunakan teknologi VR.
