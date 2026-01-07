@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# threejs-gltf-import
-
-Demo app for importing a .gltf model using Three.js
-
-## Demo
-
-https://dgreenheck.github.io/threejs-gltf-import/
-
-## Tutorial
-
-Check out the [step-by-step tutorial](https://youtu.be/aOQuuotM-Ww) on my YouTube channel!
-=======
 Deskripsi Proyek
 
 Proyek ini bertujuan untuk menciptakan lingkungan virtual interaktif berbasis web yang mensimulasikan ruang Laboratorium Komputer. Aplikasi ini dirancang agar pengguna dapat merasakan pengalaman berada di dalam laboratorium komputer secara realistis melalui tampilan tiga dimensi (3D) dan teknologi Virtual Reality (VR).
