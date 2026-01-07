@@ -1,10 +1,10 @@
-Deskripsi Proyek
+**Deskripsi Proyek**
 
 Proyek ini bertujuan untuk menciptakan lingkungan virtual interaktif berbasis web yang mensimulasikan ruang Laboratorium Komputer. Aplikasi ini dirancang agar pengguna dapat merasakan pengalaman berada di dalam laboratorium komputer secara realistis melalui tampilan tiga dimensi (3D) dan teknologi Virtual Reality (VR).
 
 Lingkungan virtual ini dapat diakses melalui browser tanpa perlu instalasi aplikasi tambahan. Pengguna dapat melihat sekeliling ruangan secara 360 derajat, berpindah posisi, serta berinteraksi dengan objek-objek tertentu di dalam laboratorium. Proyek ini diharapkan dapat digunakan sebagai media pembelajaran, simulasi pengenalan fasilitas laboratorium, maupun sarana demonstrasi teknologi VR berbasis web.
 
-Fitur yang Digunakan
+**Fitur yang Digunakan**
 1. Tampilan 3D Laboratorium
 
 Menampilkan model tiga dimensi ruang Laboratorium Komputer secara realistis, termasuk meja, kursi, komputer, dan elemen pendukung lainnya.
@@ -32,4 +32,3 @@ Aplikasi dibangun menggunakan teknologi web modern sehingga dapat dijalankan lan
 7. Optimasi Performa
 
 Penggunaan model dan rendering yang dioptimalkan agar aplikasi tetap berjalan lancar di berbagai perangkat.
->>>>>>> 626caef064bae4714cee54896c2899152b02526d
